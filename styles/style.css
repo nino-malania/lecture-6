@@ -16,7 +16,7 @@ header {
 	background: #F5F5F5;
 	position: fixed;
 	top: 0;
-	z-index: 1;
+	z-index: 2;
 }
 
 li {
@@ -60,6 +60,7 @@ h2 {
 	color: #000000;
 	text-transform: uppercase;
 	margin-bottom: 27px;
+	margin-top: 33px;
 }
 
 .card {
@@ -119,7 +120,75 @@ h2 {
 	margin-left: 11px;
 }
 
+.p7 {
+	margin-top: 20px;
+	width: 758px;
+	height: 430px;
+}
+
+.p8 {
+	margin-top: 30px;
+	width: 758px;
+	height: 430px;
+}
+
+.p9 {
+	width: 362px;
+	height: 212px;
+	margin-top: -1590px;
+	margin-left: 800px;
+}
+
+.p10 {
+	width: 362px;
+	height: 212px;
+	margin-top: -950px;
+	margin-left: 800px;
+}
+
+.p11 {
+	width: 362px;
+	height: 212px;
+	margin-top: -300px;
+	margin-left: 800px;
+}
 
 footer {
-	height: 700px;
+	height: 201px;
+	width: 1460px;
+	background:#243043;
+	
 }
+
+h3 {
+    display: inline-block;
+
+}
+
+h4 {
+	margin-top: 25px;
+	margin-left: 130px;
+	color: #818687;
+}
+
+h5 {
+	margin-top: -140px;
+	margin-left: 700px;
+	color: #FFFFFF;
+
+}
+
+.p13 {
+    margin-top: -10px;
+    margin-left: 1315px;
+
+}
+
+
+
+
+
+
+
+
+
